@@ -1,0 +1,22 @@
+{
+  "files": {
+    "content.css": "/static/css/content.css",
+    "content.js": "/content.js",
+    "content.js.map": "/content.js.map",
+    "main.css": "/static/css/main.css",
+    "main.js": "/main.js",
+    "main.js.map": "/main.js.map",
+    "2.js": "/2.js",
+    "2.js.map": "/2.js.map",
+    "content.js.LICENSE.txt": "/content.js.LICENSE.txt",
+    "main.js.LICENSE.txt": "/main.js.LICENSE.txt",
+    "popup.html": "/popup.html",
+    "static/css/content.css.map": "/static/css/content.css.map",
+    "static/css/main.css.map": "/static/css/main.css.map",
+    "static/media/logo.svg": "/static/media/logo.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "main.js"
+  ]
+}

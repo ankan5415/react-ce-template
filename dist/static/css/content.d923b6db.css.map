@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/content.css"],"names":[],"mappings":"AAAA,cACE,YACF,CACA,iBACE,UACF","file":"content.d923b6db.css","sourcesContent":[".my-extension {\n  padding: 20px;\n}\n.my-extension h1 {\n  color: #000;\n}\n"]}
